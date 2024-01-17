@@ -1,0 +1,12 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "avrdude",
+        "type": "shell",
+        "command": "tools/avrdude/bin/avrdude.exe -C./tools/avrdude/etc/avrdude.conf -v -patmega2560 -cwiring -PCOM40 -b115200 -D -Uflash:w:build/atmega256_fw.hex:i"
+      }
+    ]
+  }

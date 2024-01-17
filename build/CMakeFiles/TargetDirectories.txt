@@ -1,0 +1,3 @@
+C:/Users/zwing/atmega328p/build/CMakeFiles/atmega328p_fw.elf.dir
+C:/Users/zwing/atmega328p/build/CMakeFiles/edit_cache.dir
+C:/Users/zwing/atmega328p/build/CMakeFiles/rebuild_cache.dir

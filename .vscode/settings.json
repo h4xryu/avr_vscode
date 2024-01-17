@@ -1,0 +1,10 @@
+{
+    "cmake.configureArgs": [
+        "-DAVR_TOOLCHAIN_DIR=C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/",
+        "-DCMAKE_MAKE_PROGRAM=C:/tools/build_tools/xpack-windows-build-tools-4.2.1-2/bin/make.exe"
+    ],
+    "cmake.generator": "Unix Makefiles",
+    "cmake.exportCompileCommandsFile": false,
+    "cmake.sourceDirectory": "C:/Users/zwing/atmega328p",
+    "C_Cpp.errorSquiggles": "disabled"
+}
