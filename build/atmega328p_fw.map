@@ -2,15 +2,29 @@ Archive member included to satisfy reference by file (symbol)
 
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                              C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+SelfTest            0x18              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+temperature         0x4               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+aRes                0x4               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+tempCount           0x2               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+gRes                0x4               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+mRes                0x4               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 
 Discarded input sections
 
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/main.c.obj (symbol from plugin)
- .text          0x00000000        0x0 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
- .data          0x00000000        0x0 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
- .bss           0x00000000        0x0 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+ .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+ .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+ .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+ .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
@@ -27,6 +41,22 @@ Discarded input sections
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
 
 Memory Configuration
 
@@ -46,7 +76,11 @@ Address of section .data set to 0x800100
 LOAD c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 LOAD c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
 LOAD CMakeFiles/atmega328p_fw.elf.dir/main.c.obj
-LOAD C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+LOAD C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+LOAD CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj
+LOAD CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj
+LOAD CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj
+LOAD CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj
 START GROUP
 LOAD c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
 LOAD c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
@@ -152,7 +186,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000       0x86
+.text           0x00000000      0x324
  *(.vectors)
  .vectors       0x00000000       0x68 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
                 0x00000000                __vector_default
@@ -193,6 +227,8 @@ END GROUP
  *(.init3)
  *(.init3)
  *(.init4)
+ .init4         0x00000074       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000074                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
@@ -203,45 +239,46 @@ END GROUP
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x00000074        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .init9         0x00000084        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  *(.init9)
  *(.text)
- .text          0x0000007c        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-                0x0000007c                __vector_22
-                0x0000007c                __vector_1
-                0x0000007c                __vector_24
-                0x0000007c                __vector_12
-                0x0000007c                __bad_interrupt
-                0x0000007c                __vector_6
-                0x0000007c                __vector_3
-                0x0000007c                __vector_23
-                0x0000007c                __vector_25
-                0x0000007c                __vector_11
-                0x0000007c                __vector_13
-                0x0000007c                __vector_17
-                0x0000007c                __vector_19
-                0x0000007c                __vector_7
-                0x0000007c                __vector_5
-                0x0000007c                __vector_4
-                0x0000007c                __vector_9
-                0x0000007c                __vector_2
-                0x0000007c                __vector_21
-                0x0000007c                __vector_15
-                0x0000007c                __vector_8
-                0x0000007c                __vector_14
-                0x0000007c                __vector_10
-                0x0000007c                __vector_16
-                0x0000007c                __vector_18
-                0x0000007c                __vector_20
-                0x00000080                . = ALIGN (0x2)
+ .text          0x0000008c        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000008c                __vector_22
+                0x0000008c                __vector_1
+                0x0000008c                __vector_12
+                0x0000008c                __bad_interrupt
+                0x0000008c                __vector_6
+                0x0000008c                __vector_3
+                0x0000008c                __vector_23
+                0x0000008c                __vector_25
+                0x0000008c                __vector_11
+                0x0000008c                __vector_13
+                0x0000008c                __vector_17
+                0x0000008c                __vector_19
+                0x0000008c                __vector_7
+                0x0000008c                __vector_5
+                0x0000008c                __vector_4
+                0x0000008c                __vector_9
+                0x0000008c                __vector_2
+                0x0000008c                __vector_21
+                0x0000008c                __vector_15
+                0x0000008c                __vector_8
+                0x0000008c                __vector_10
+                0x0000008c                __vector_16
+                0x0000008c                __vector_18
+                0x0000008c                __vector_20
+ .text          0x00000090      0x28e C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+                0x000000a4                __vector_24
+                0x000002d4                __vector_14
+                0x0000031e                . = ALIGN (0x2)
  *(.text.*)
- .text.startup  0x00000080        0x2 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
-                0x00000080                main
-                0x00000082                . = ALIGN (0x2)
+ .text.startup  0x0000031e        0x2 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+                0x0000031e                main
+                0x00000320                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000082        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
-                0x00000082                _exit
-                0x00000082                exit
+ .fini9         0x00000320        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x00000320                _exit
+                0x00000320                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -260,11 +297,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000082        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .fini0         0x00000320        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00000086                _etext = .
+                0x00000324                _etext = .
 
-.data           0x00800100        0x0 load address 0x00000086
+.data           0x00800100        0x0 load address 0x00000324
                 [!provide]                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
@@ -276,20 +313,21 @@ END GROUP
                 0x00800100                _edata = .
                 [!provide]                PROVIDE (__data_end, .)
 
-.bss            0x00800100        0x0
-                [!provide]                PROVIDE (__bss_start, .)
+.bss            0x00800100       0x6e
+                0x00800100                PROVIDE (__bss_start, .)
  *(.bss)
+ .bss           0x00800100       0x6e C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
  *(.bss*)
  *(COMMON)
-                [!provide]                PROVIDE (__bss_end, .)
-                0x00000086                __data_load_start = LOADADDR (.data)
-                0x00000086                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x0080016e                PROVIDE (__bss_end, .)
+                0x00000324                __data_load_start = LOADADDR (.data)
+                0x00000324                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x00800100        0x0
+.noinit         0x0080016e        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x00800100                _end = .
+                0x0080016e                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -331,7 +369,7 @@ END GROUP
 
 .comment        0x00000000       0x11
  *(.comment)
- .comment       0x00000000       0x11 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+ .comment       0x00000000       0x11 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
                                  0x12 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -354,45 +392,52 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000       0x40
+.debug_aranges  0x00000000       0x68
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x20 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+                0x00000000       0x28 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
  .debug_aranges
-                0x00000020       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x00000028       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000048       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000      0x6fb
+.debug_info     0x00000000      0x9d5
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x5f4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_info    0x000005f4       0x4c C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
- .debug_info    0x00000640       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x000005f4      0x26b C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+ .debug_info    0x0000085f       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x0000091a       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
 
-.debug_abbrev   0x00000000      0x5f4
+.debug_abbrev   0x00000000      0x6f0
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x5a2 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_abbrev  0x000005a2       0x3e C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
- .debug_abbrev  0x000005e0       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x000005a2      0x126 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+ .debug_abbrev  0x000006c8       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x000006dc       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
 
-.debug_line     0x00000000       0xc8
+.debug_line     0x00000000      0x33f
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000       0x1a c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_line    0x0000001a       0x4c C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
- .debug_line    0x00000066       0x62 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x0000001a      0x23d C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+ .debug_line    0x00000257       0x62 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x000002b9       0x86 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
 
-.debug_frame    0x00000000       0x24
+.debug_frame    0x00000000       0xbc
  *(.debug_frame)
- .debug_frame   0x00000000       0x24 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+ .debug_frame   0x00000000       0xbc C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
 
-.debug_str      0x00000000      0x2ef
+.debug_str      0x00000000      0x422
  *(.debug_str)
  .debug_str     0x00000000      0x208 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_str     0x00000208       0xe7 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+ .debug_str     0x00000208      0x21a C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+                                0x227 (size before relaxing)
 
-.debug_loc
+.debug_loc      0x00000000      0x16a
  *(.debug_loc)
+ .debug_loc     0x00000000      0x16a C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -412,9 +457,9 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000       0x10
+.debug_ranges   0x00000000       0x48
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x10 C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+ .debug_ranges  0x00000000       0x48 C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
 
 .debug_macro
  *(.debug_macro)
@@ -424,8 +469,30 @@ LOAD linker stubs
 Cross Reference Table
 
 Symbol                                            File
+Ascale                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+Gscale                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+MPU9250SelfTest                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+MadgwickQuaternionUpdate                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+Mmode                                             CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+Mscale                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+SelfTest                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+UART_Init                                         CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_Printf                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+UART_RxChar                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_RxString                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_SetBaudRate                                  CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_TxChar                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_TxFloatNumber                                CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_TxNumber                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+UART_TxString                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 __FUSE_REGION_LENGTH__                            c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __bad_interrupt                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__bss_end                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+__do_clear_bss                                    c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                                                  C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
 __heap_end                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __init                                            c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __stack                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -434,7 +501,9 @@ __vector_10                                       c:/tools/avr-gcc-7.3.0-atmel3.
 __vector_11                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_12                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_13                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-__vector_14                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_14                                       C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_15                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_16                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_17                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -445,7 +514,9 @@ __vector_20                                       c:/tools/avr-gcc-7.3.0-atmel3.
 __vector_21                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_22                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_23                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-__vector_24                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_24                                       C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_25                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_3                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_4                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -457,8 +528,63 @@ __vector_9                                        c:/tools/avr-gcc-7.3.0-atmel3.
 __vector_default                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vectors                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 _exit                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+aRes                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+accelBias                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+beta                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+calibrateMPU9250                                  CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+deltat                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 exit                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-main                                              C:\Users\zwing\AppData\Local\Temp\cco0rsyB.ltrans0.ltrans.o
+gRes                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+getAres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+getGres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+getMres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+gyroBias                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+initAK8963                                        CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+initMPU9250                                       CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+mRes                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+magBias                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+magCalibration                                    CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+magScale                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+magbias                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+magcalMPU9250                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+main                                              C:\Users\zwing\AppData\Local\Temp\ccKaQytL.ltrans0.ltrans.o
                                                   CMakeFiles/atmega328p_fw.elf.dir/main.c.obj (symbol from plugin)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+micros_get                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_add                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_get                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_init                                       CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_pause                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_reset                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_resume                                     CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+millis_subtract                                   CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+milliseconds                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
+mpu9250_setup                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readAccelData                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readByte                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readByte_Debug                                    CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readBytes                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readBytes_Debug                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readGyroData                                      CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readMagData                                       CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+readTempData                                      CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+sum                                               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+tempCount                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+temperature                                       CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+twi_attachSlaveRxEvent                            CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_attachSlaveTxEvent                            CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_disableInterrupt                              CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_init                                          CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_readFrom                                      CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+twi_releaseBus                                    CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_reply                                         CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_setAddress                                    CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_setInterrupt                                  CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_stop                                          CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_transmit                                      CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+twi_writeTo                                       CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+writeByte                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
+zeta                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)

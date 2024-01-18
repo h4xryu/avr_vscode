@@ -6,6 +6,10 @@ cmake_policy(SET CMP0009 NEW)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/Users/zwing/atmega328p/*.c")
 set(OLD_GLOB
   "C:/Users/zwing/atmega328p/main.c"
+  "C:/Users/zwing/atmega328p/millis.c"
+  "C:/Users/zwing/atmega328p/mpu9250.c"
+  "C:/Users/zwing/atmega328p/twi.c"
+  "C:/Users/zwing/atmega328p/uart.c"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

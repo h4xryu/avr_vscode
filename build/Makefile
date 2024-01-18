@@ -154,6 +154,102 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.c.s
 .PHONY : main.c.s
 
+millis.obj: millis.c.obj
+.PHONY : millis.obj
+
+# target to build an object file
+millis.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj
+.PHONY : millis.c.obj
+
+millis.i: millis.c.i
+.PHONY : millis.i
+
+# target to preprocess a source file
+millis.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/millis.c.i
+.PHONY : millis.c.i
+
+millis.s: millis.c.s
+.PHONY : millis.s
+
+# target to generate assembly for a file
+millis.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/millis.c.s
+.PHONY : millis.c.s
+
+mpu9250.obj: mpu9250.c.obj
+.PHONY : mpu9250.obj
+
+# target to build an object file
+mpu9250.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj
+.PHONY : mpu9250.c.obj
+
+mpu9250.i: mpu9250.c.i
+.PHONY : mpu9250.i
+
+# target to preprocess a source file
+mpu9250.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.i
+.PHONY : mpu9250.c.i
+
+mpu9250.s: mpu9250.c.s
+.PHONY : mpu9250.s
+
+# target to generate assembly for a file
+mpu9250.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.s
+.PHONY : mpu9250.c.s
+
+twi.obj: twi.c.obj
+.PHONY : twi.obj
+
+# target to build an object file
+twi.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj
+.PHONY : twi.c.obj
+
+twi.i: twi.c.i
+.PHONY : twi.i
+
+# target to preprocess a source file
+twi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/twi.c.i
+.PHONY : twi.c.i
+
+twi.s: twi.c.s
+.PHONY : twi.s
+
+# target to generate assembly for a file
+twi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/twi.c.s
+.PHONY : twi.c.s
+
+uart.obj: uart.c.obj
+.PHONY : uart.obj
+
+# target to build an object file
+uart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj
+.PHONY : uart.c.obj
+
+uart.i: uart.c.i
+.PHONY : uart.i
+
+# target to preprocess a source file
+uart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/uart.c.i
+.PHONY : uart.c.i
+
+uart.s: uart.c.s
+.PHONY : uart.s
+
+# target to generate assembly for a file
+uart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/uart.c.s
+.PHONY : uart.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -166,6 +262,18 @@ help:
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... millis.obj"
+	@echo "... millis.i"
+	@echo "... millis.s"
+	@echo "... mpu9250.obj"
+	@echo "... mpu9250.i"
+	@echo "... mpu9250.s"
+	@echo "... twi.obj"
+	@echo "... twi.i"
+	@echo "... twi.s"
+	@echo "... uart.obj"
+	@echo "... uart.i"
+	@echo "... uart.s"
 .PHONY : help
 
 

@@ -81,12 +81,12 @@ clean: CMakeFiles/atmega328p_fw.elf.dir/clean
 CMakeFiles/atmega328p_fw.elf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=1,2 "Built target atmega328p_fw.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target atmega328p_fw.elf"
 .PHONY : CMakeFiles/atmega328p_fw.elf.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/atmega328p_fw.elf.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:/Users/zwing/atmega328p/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:/Users/zwing/atmega328p/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/atmega328p_fw.elf.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:/Users/zwing/atmega328p/build/CMakeFiles 0
 .PHONY : CMakeFiles/atmega328p_fw.elf.dir/rule
