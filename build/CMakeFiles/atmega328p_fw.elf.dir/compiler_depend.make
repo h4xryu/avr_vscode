@@ -4,7 +4,9 @@
 CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj: C:/Users/zwing/atmega328p/Framebuffer.cpp \
   C:/Users/zwing/atmega328p/Framebuffer.h \
   C:/Users/zwing/atmega328p/I2C.h \
-  C:/Users/zwing/atmega328p/SSD1306.h
+  C:/Users/zwing/atmega328p/SSD1306.h \
+  C:/Users/zwing/atmega328p/stdutils.h \
+  C:/Users/zwing/atmega328p/uart.h
 
 CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj: C:/Users/zwing/atmega328p/I2C.cpp \
   C:/Users/zwing/atmega328p/I2C.h
@@ -44,7 +46,7 @@ CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj: C:/Users/zwing/atmega328p/uart.c \
   C:/Users/zwing/atmega328p/uart.h
 
 
-C:/Users/zwing/atmega328p/main.cpp:
+C:/Users/zwing/atmega328p/uart.h:
 
 C:/Users/zwing/atmega328p/Framebuffer.cpp:
 
@@ -54,9 +56,13 @@ C:/Users/zwing/atmega328p/SSD1306.h:
 
 C:/Users/zwing/atmega328p/I2C.h:
 
+C:/Users/zwing/atmega328p/stdutils.h:
+
 C:/Users/zwing/atmega328p/SSD1306.cpp:
 
 C:/Users/zwing/atmega328p/I2C.cpp:
+
+C:/Users/zwing/atmega328p/main.cpp:
 
 C:/Users/zwing/atmega328p/millis.h:
 
@@ -64,11 +70,7 @@ C:/Users/zwing/atmega328p/mpu9250.h:
 
 C:/Users/zwing/atmega328p/mpu9250_registers.h:
 
-C:/Users/zwing/atmega328p/stdutils.h:
-
 C:/Users/zwing/atmega328p/twi.h:
-
-C:/Users/zwing/atmega328p/uart.h:
 
 C:/Users/zwing/atmega328p/millis.c:
 

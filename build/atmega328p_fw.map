@@ -2,106 +2,61 @@ Archive member included to satisfy reference by file (symbol)
 
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__udivmodhi4)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__divmodhi4)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__udivmodsi4)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__divmodsi4)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__divmodhi4)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__do_copy_data)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__do_copy_data)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__do_clear_bss)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__muluhisi3)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__do_clear_bss)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__subsf3)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__subsf3)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (asin)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (atan2)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o) (atan)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__eqsf2)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (cos)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__divsf3)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__ltsf2)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__fixsfsi)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__fixsfsi)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__fixunssfsi)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__fixunssfsi)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__floatunsisf)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o) (__fp_arccos)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__floatsisf)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (floor)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o) (__fp_mintl)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o) (__fp_mpack)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o) (__fp_powser)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o) (__fp_powsodd)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_rempio2)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_sinus)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o) (__fp_trunc)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o) (inverse)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (__mulsf3)
+                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o (__mulsf3)
 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o) (__mulsf3x)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (pow)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (sin)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o (sqrt)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o) (square)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o) (exp)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_mpack)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_norm2)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o) (ldexp)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o) (log)
-c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
-                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o) (modf)
+                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
 
 Discarded input sections
 
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
+ .data          0x00000000        0x0 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
  .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj (symbol from plugin)
  .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj (symbol from plugin)
  .text          0x00000000        0x0 CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
@@ -125,20 +80,6 @@ Discarded input sections
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
@@ -153,48 +94,6 @@ Discarded input sections
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
@@ -227,61 +126,29 @@ Discarded input sections
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .text.libgcc.div
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc.div
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc   0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
@@ -291,84 +158,48 @@ Discarded input sections
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
  .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
  .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
  .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
- .text          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
- .data          0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
- .bss           0x00000000        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
 
 Memory Configuration
 
@@ -387,7 +218,7 @@ Linker script and memory map
 Address of section .data set to 0x800100
 LOAD c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 LOAD CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj
-LOAD C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+LOAD C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 LOAD CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj
 LOAD CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj
 LOAD CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj
@@ -502,64 +333,52 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x5b9e
+.text           0x00000000     0x184c
  *(.vectors)
  .vectors       0x00000000       0x68 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
                 0x00000000                __vector_default
                 0x00000000                __vectors
  *(.vectors)
  *(.progmem.gcc*)
- .progmem.gcc_fplib
-                0x00000068       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
- .progmem.gcc_fplib
-                0x0000007c       0x2d c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
- .progmem.gcc_fplib
-                0x000000a9       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
- .progmem.gcc_fplib
-                0x000000d1       0x1e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
- .progmem.gcc_fplib
-                0x000000ef       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
- .progmem.gcc_fplib
-                0x00000117       0x5a c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                0x00000172                . = ALIGN (0x2)
- *fill*         0x00000171        0x1 
-                0x00000172                __trampolines_start = .
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
  *(.trampolines)
- .trampolines   0x00000172        0x0 linker stubs
+ .trampolines   0x00000068        0x0 linker stubs
  *(.trampolines*)
-                0x00000172                __trampolines_end = .
+                0x00000068                __trampolines_end = .
  *libprintf_flt.a:*(.progmem.data)
  *libc.a:*(.progmem.data)
  *(.progmem*)
-                0x00000172                . = ALIGN (0x2)
+ .progmem.data  0x00000068      0x5f4 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+                0x0000065c                . = ALIGN (0x2)
  *(.jumptables)
  *(.jumptables*)
  *(.lowtext)
  *(.lowtext*)
-                0x00000172                __ctors_start = .
+                0x0000065c                __ctors_start = .
  *(.ctors)
-                0x00000172                __ctors_end = .
-                0x00000172                __dtors_start = .
+                0x0000065c                __ctors_end = .
+                0x0000065c                __dtors_start = .
  *(.dtors)
-                0x00000172                __dtors_end = .
+                0x0000065c                __dtors_end = .
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x00000172        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-                0x00000172                __init
+ .init0         0x0000065c        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000065c                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x00000172        0xc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .init2         0x0000065c        0xc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x0000017e       0x16 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
-                0x0000017e                __do_copy_data
- .init4         0x00000194       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
-                0x00000194                __do_clear_bss
+ .init4         0x00000668       0x16 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x00000668                __do_copy_data
+ .init4         0x0000067e       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000067e                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
@@ -570,195 +389,123 @@ END GROUP
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x000001a4        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .init9         0x0000068e        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
  *(.init9)
  *(.text)
- .text          0x000001ac        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-                0x000001ac                __vector_22
-                0x000001ac                __vector_1
-                0x000001ac                __vector_12
-                0x000001ac                __bad_interrupt
-                0x000001ac                __vector_6
-                0x000001ac                __vector_3
-                0x000001ac                __vector_23
-                0x000001ac                __vector_25
-                0x000001ac                __vector_11
-                0x000001ac                __vector_13
-                0x000001ac                __vector_17
-                0x000001ac                __vector_19
-                0x000001ac                __vector_5
-                0x000001ac                __vector_4
-                0x000001ac                __vector_9
-                0x000001ac                __vector_2
-                0x000001ac                __vector_21
-                0x000001ac                __vector_15
-                0x000001ac                __vector_8
-                0x000001ac                __vector_14
-                0x000001ac                __vector_10
-                0x000001ac                __vector_16
-                0x000001ac                __vector_18
-                0x000001ac                __vector_20
- .text          0x000001b0      0x9e8 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-                0x0000091e                __vector_24
-                0x00000b4e                __vector_7
-                0x00000b98                . = ALIGN (0x2)
+ .text          0x00000696        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000696                __vector_22
+                0x00000696                __vector_1
+                0x00000696                __vector_12
+                0x00000696                __bad_interrupt
+                0x00000696                __vector_6
+                0x00000696                __vector_3
+                0x00000696                __vector_23
+                0x00000696                __vector_25
+                0x00000696                __vector_11
+                0x00000696                __vector_13
+                0x00000696                __vector_17
+                0x00000696                __vector_19
+                0x00000696                __vector_5
+                0x00000696                __vector_4
+                0x00000696                __vector_9
+                0x00000696                __vector_2
+                0x00000696                __vector_21
+                0x00000696                __vector_15
+                0x00000696                __vector_8
+                0x00000696                __vector_14
+                0x00000696                __vector_10
+                0x00000696                __vector_16
+                0x00000696                __vector_18
+                0x00000696                __vector_20
+ .text          0x0000069a      0x448 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+                0x00000868                __vector_24
+                0x00000a98                __vector_7
+                0x00000ae2                . = ALIGN (0x2)
  *(.text.*)
- .text.startup  0x00000b98     0x44c4 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-                0x00000b98                main
+ .text.startup  0x00000ae2      0x8d8 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+                0x00000ae2                main
  .text.libgcc.div
-                0x0000505c       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
-                0x0000505c                __udivmodhi4
+                0x000013ba       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+                0x000013ba                _div
+                0x000013ba                __divmodhi4
  .text.libgcc.div
-                0x00005084       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
-                0x00005084                _div
-                0x00005084                __divmodhi4
- .text.libgcc.div
-                0x000050ac       0x44 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
-                0x000050ac                __udivmodsi4
- .text.libgcc.div
-                0x000050f0       0x2e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
-                0x000050f0                __divmodsi4
- .text.libgcc.div
-                0x0000511e       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
-                0x0000511e                __negsi2
- .text.libgcc.mul
-                0x0000512e       0x16 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
-                0x0000512e                __muluhisi3
- .text.libgcc.mul
-                0x00005144       0x1e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
-                0x00005144                __umulhisi3
+                0x000013e2       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x000013e2                __udivmodhi4
  .text.avr-libc.fplib
-                0x00005162        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                0x00005162                __subsf3
-                0x00005164                __addsf3
+                0x0000140a        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000140a                __subsf3
+                0x0000140c                __addsf3
  .text.avr-libc.fplib
-                0x00005170       0xcc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-                0x00005192                __addsf3x
+                0x00001418       0xcc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000143a                __addsf3x
  .text.avr-libc.fplib
-                0x0000523c       0x36 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
-                0x0000523c                asin
+                0x000014e4        0xa c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000014e4                __nesf2
+                0x000014e4                __eqsf2
+                0x000014e4                __cmpsf2
+                0x000014e4                __ltsf2
+                0x000014e4                __lesf2
  .text.avr-libc.fplib
-                0x00005272       0x86 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-                0x00005298                atan2
+                0x000014ee        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x000014ee                __fixsfsi
  .text.avr-libc.fplib
-                0x000052f8       0x5e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-                0x000052f8                atan
+                0x000014fc       0x5e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000014fc                __fixunssfsi
  .text.avr-libc.fplib
-                0x00005356        0xa c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                0x00005356                __nesf2
-                0x00005356                __eqsf2
-                0x00005356                __cmpsf2
-                0x00005356                __ltsf2
-                0x00005356                __lesf2
+                0x0000155a       0x7a c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x0000155a                __floatunsisf
+                0x0000155e                __floatsisf
  .text.avr-libc.fplib
-                0x00005360        0xa c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
-                0x00005360                cos
+                0x000015d4       0x2e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
+                0x000015d4                floor
  .text.avr-libc.fplib
-                0x0000536a        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                0x0000536a                __divsf3
+                0x00001602       0x48 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00001602                __fp_cmp
  .text.avr-libc.fplib
-                0x00005372       0xdc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                0x00005392                __divsf3x
-                0x00005398                __divsf3_pse
+                0x0000164a        0xc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000164a                __fp_inf
  .text.avr-libc.fplib
-                0x0000544e        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
-                0x0000544e                __fixsfsi
+                0x00001656       0x36 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                0x00001656                __fp_mintl
  .text.avr-libc.fplib
-                0x0000545c       0x5e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                0x0000545c                __fixunssfsi
+                0x0000168c       0x1c c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x0000168c                __fp_mpack
+                0x00001690                __fp_mpack_finite
  .text.avr-libc.fplib
-                0x000054ba       0x7a c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                0x000054ba                __floatunsisf
-                0x000054be                __floatsisf
+                0x000016a8        0x6 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000016a8                __fp_nan
  .text.avr-libc.fplib
-                0x00005534       0x40 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                0x00005534                __fp_arccos
+                0x000016ae        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000016ae                __fp_pscA
  .text.avr-libc.fplib
-                0x00005574       0x48 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
-                0x00005574                __fp_cmp
+                0x000016bc        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000016bc                __fp_pscB
  .text.avr-libc.fplib
-                0x000055bc        0xc c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
-                0x000055bc                __fp_inf
+                0x000016ca       0x22 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000016ca                __fp_round
  .text.avr-libc.fplib
-                0x000055c8        0x6 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
-                0x000055c8                __fp_nan
+                0x000016ec       0x44 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000016ec                __fp_split3
+                0x000016fc                __fp_splitA
  .text.avr-libc.fplib
-                0x000055ce       0x4e c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
-                0x000055ce                __fp_powser
+                0x00001730       0x30 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                0x00001730                __fp_trunc
  .text.avr-libc.fplib
-                0x0000561c       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
-                0x0000561c                __fp_powsodd
+                0x00001760        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00001760                __fp_zero
+                0x00001762                __fp_szero
  .text.avr-libc.fplib
-                0x00005644        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
-                0x00005644                __fp_pscA
+                0x0000176e        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000176e                __mulsf3
  .text.avr-libc.fplib
-                0x00005652        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
-                0x00005652                __fp_pscB
- .text.avr-libc.fplib
-                0x00005660       0x56 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
-                0x00005664                __fp_rempio2
- .text.avr-libc.fplib
-                0x000056b6       0x22 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
-                0x000056b6                __fp_round
- .text.avr-libc.fplib
-                0x000056d8       0x28 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                0x000056d8                __fp_sinus
- .text.avr-libc.fplib
-                0x00005700       0x44 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
-                0x00005700                __fp_split3
-                0x00005710                __fp_splitA
- .text.avr-libc.fplib
-                0x00005744        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                0x00005744                __fp_zero
-                0x00005746                __fp_szero
- .text.avr-libc.fplib
-                0x00005752       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
-                0x00005752                inverse
- .text.avr-libc.fplib
-                0x00005762        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                0x00005762                __mulsf3
- .text.avr-libc.fplib
-                0x0000576a       0xd2 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                0x00005788                __mulsf3x
-                0x0000578e                __mulsf3_pse
- .text.avr-libc.fplib
-                0x0000583c       0xa0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
-                0x0000583c                pow
- .text.avr-libc.fplib
-                0x000058dc       0x10 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
-                0x000058dc                sin
- .text.avr-libc.fplib
-                0x000058ec       0x8c c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-                0x000058f8                sqrtf
-                0x000058f8                sqrt
- .text.avr-libc.fplib
-                0x00005978        0x8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
-                0x00005978                square
- .text.avr-libc.fplib
-                0x00005980       0x74 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                0x00005990                exp
- .text.avr-libc.fplib
-                0x000059f4       0x1c c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
-                0x000059f4                __fp_mpack
-                0x000059f8                __fp_mpack_finite
- .text.avr-libc.fplib
-                0x00005a10        0xe c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
-                0x00005a10                __fp_norm2
- .text.avr-libc.fplib
-                0x00005a1e       0x74 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                0x00005a26                ldexp
- .text.avr-libc.fplib
-                0x00005a92       0xa0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                0x00005aa2                log
- .text.avr-libc.fplib
-                0x00005b32       0x68 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
-                0x00005b32                modf
-                0x00005b32                modff
-                0x00005b9a                . = ALIGN (0x2)
+                0x00001776       0xd2 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001794                __mulsf3x
+                0x0000179a                __mulsf3_pse
+                0x00001848                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00005b9a        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
-                0x00005b9a                _exit
-                0x00005b9a                exit
+ .fini9         0x00001848        0x0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x00001848                _exit
+                0x00001848                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -777,43 +524,38 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00005b9a        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .fini0         0x00001848        0x4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00005b9e                _etext = .
+                0x0000184c                _etext = .
 
-.data           0x00800100      0x5c2 load address 0x00005b9e
+.data           0x00800100       0x90 load address 0x0000184c
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
- .data          0x00800100       0x10 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
  *(.data*)
  *(.gnu.linkonce.d*)
  *(.rodata)
- .rodata        0x00800110       0x9c C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .rodata        0x00800100       0x90 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
  *(.rodata*)
- .rodata.str1.1
-                0x008001ac      0x515 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-                                0x53c (size before relaxing)
  *(.gnu.linkonce.r*)
-                0x008006c2                . = ALIGN (0x2)
- *fill*         0x008006c1        0x1 
-                0x008006c2                _edata = .
-                0x008006c2                PROVIDE (__data_end, .)
+                0x00800190                . = ALIGN (0x2)
+                0x00800190                _edata = .
+                0x00800190                PROVIDE (__data_end, .)
 
-.bss            0x008006c2      0x11a
-                0x008006c2                PROVIDE (__bss_start, .)
+.bss            0x00800190       0x76
+                0x00800190                PROVIDE (__bss_start, .)
  *(.bss)
- .bss           0x008006c2      0x11a C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .bss           0x00800190       0x76 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
  *(.bss*)
  *(COMMON)
-                0x008007dc                PROVIDE (__bss_end, .)
-                0x00005b9e                __data_load_start = LOADADDR (.data)
-                0x00006160                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x00800206                PROVIDE (__bss_end, .)
+                0x0000184c                __data_load_start = LOADADDR (.data)
+                0x000018dc                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008007dc        0x0
+.noinit         0x00800206        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008007dc                _end = .
+                0x00800206                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -855,7 +597,7 @@ END GROUP
 
 .comment        0x00000000       0x11
  *(.comment)
- .comment       0x00000000       0x11 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .comment       0x00000000       0x11 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
                                  0x12 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -878,92 +620,67 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x168
+.debug_aranges  0x00000000       0xc8
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x28 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                0x00000000       0x28 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
  .debug_aranges
                 0x00000028       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
  .debug_aranges
-                0x00000048       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000048       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
  .debug_aranges
-                0x00000068       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000068       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
  .debug_aranges
-                0x00000088       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000088       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
  .debug_aranges
-                0x000000a8       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .debug_aranges
-                0x000000c8       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .debug_aranges
-                0x000000e8       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
- .debug_aranges
-                0x00000108       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
- .debug_aranges
-                0x00000128       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .debug_aranges
-                0x00000148       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000000a8       0x20 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x4c4b
+.debug_info     0x00000000     0x25d4
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x5f4 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_info    0x000005f4     0x3f09 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
- .debug_info    0x000044fd       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
- .debug_info    0x000045b8       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .debug_info    0x00004673       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
- .debug_info    0x0000472e       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .debug_info    0x000047e9       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .debug_info    0x000048a4       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .debug_info    0x0000495f       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
- .debug_info    0x00004a1a       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
- .debug_info    0x00004ad5       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .debug_info    0x00004b90       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_info    0x000005f4     0x1c39 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+ .debug_info    0x0000222d       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x000022e8       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_info    0x000023a3       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x0000245e       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_info    0x00002519       0xbb c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
 
-.debug_abbrev   0x00000000      0xc22
+.debug_abbrev   0x00000000      0xa64
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x5a2 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_abbrev  0x000005a2      0x5b8 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
- .debug_abbrev  0x00000b5a       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
- .debug_abbrev  0x00000b6e       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .debug_abbrev  0x00000b82       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
- .debug_abbrev  0x00000b96       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .debug_abbrev  0x00000baa       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .debug_abbrev  0x00000bbe       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .debug_abbrev  0x00000bd2       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
- .debug_abbrev  0x00000be6       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
- .debug_abbrev  0x00000bfa       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .debug_abbrev  0x00000c0e       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x000005a2      0x45e C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+ .debug_abbrev  0x00000a00       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000a14       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000a28       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000a3c       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000a50       0x14 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
 
-.debug_line     0x00000000     0x1cc6
+.debug_line     0x00000000      0xab7
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000       0x1a c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_line    0x0000001a     0x1602 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
- .debug_line    0x0000161c       0x62 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
- .debug_line    0x0000167e       0xce c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
- .debug_line    0x0000174c       0xc8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
- .debug_line    0x00001814      0x122 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
- .debug_line    0x00001936       0xce c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
- .debug_line    0x00001a04       0x62 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
- .debug_line    0x00001a66       0x98 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
- .debug_line    0x00001afe       0x86 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
- .debug_line    0x00001b84       0x92 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
- .debug_line    0x00001c16       0xb0 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000001a      0x787 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+ .debug_line    0x000007a1       0x62 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x00000803       0xc8 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_line    0x000008cb       0x98 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x00000963       0x86 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_line    0x000009e9       0xce c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
 
-.debug_frame    0x00000000      0x2d0
+.debug_frame    0x00000000      0x16c
  *(.debug_frame)
- .debug_frame   0x00000000      0x2d0 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .debug_frame   0x00000000      0x16c C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 
-.debug_str      0x00000000      0xba7
+.debug_str      0x00000000      0x6df
  *(.debug_str)
  .debug_str     0x00000000      0x208 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
- .debug_str     0x00000208      0x99f C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-                                0xa0d (size before relaxing)
+ .debug_str     0x00000208      0x4d7 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
+                                0x501 (size before relaxing)
 
-.debug_loc      0x00000000     0x31cb
+.debug_loc      0x00000000      0xde9
  *(.debug_loc)
- .debug_loc     0x00000000     0x31cb C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .debug_loc     0x00000000      0xde9 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -983,9 +700,9 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000      0x200
+.debug_ranges   0x00000000      0x148
  *(.debug_ranges)
- .debug_ranges  0x00000000      0x200 C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+ .debug_ranges  0x00000000      0x148 C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 
 .debug_macro
  *(.debug_macro)
@@ -999,7 +716,6 @@ Ascale                                            CMakeFiles/atmega328p_fw.elf.d
 Gscale                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 MPU9250SelfTest                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 MadgwickQuaternionUpdate                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 Mmode                                             CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 Mscale                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 Now                                               CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
@@ -1009,24 +725,26 @@ UART_Init                                         CMakeFiles/atmega328p_fw.elf.d
                                                   CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 UART_Printf                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 UART_RxChar                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 UART_RxString                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 UART_SetBaudRate                                  CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 UART_TxChar                                       CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 UART_TxFloatNumber                                CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 UART_TxNumber                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
 UART_TxString                                     CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj (symbol from plugin)
+_Z24extractIntegerPartAsCharfi                    CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 _ZN11Framebuffer10drawBitmapEPKhhhhh              CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 _ZN11Framebuffer10drawBufferEPKh                  CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
+_ZN11Framebuffer11displayCharEcii                 CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
+                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 _ZN11Framebuffer11drawHexagonEiii                 CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 _ZN11Framebuffer12Cube_defaultEv                  CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 _ZN11Framebuffer13drawRectangleEhhhh              CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 _ZN11Framebuffer13drawRectangleEhhhhh             CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 _ZN11Framebuffer15setCubePositionEfff             CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
+_ZN11Framebuffer17printStringOnOLEDEhhPKc         CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
 _ZN11Framebuffer4showEv                           CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 _ZN11Framebuffer5clearEv                          CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj (symbol from plugin)
@@ -1068,15 +786,8 @@ _ZN7SSD1306C1Ev                                   CMakeFiles/atmega328p_fw.elf.d
 _ZN7SSD1306C2Ev                                   CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj (symbol from plugin)
 __FUSE_REGION_LENGTH__                            c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __addsf3                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __addsf3x                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
 __bad_interrupt                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __bss_end                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
@@ -1086,154 +797,73 @@ __data_end                                        c:/tools/avr-gcc-7.3.0-atmel3.
 __data_load_start                                 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
 __data_start                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
 __divmodhi4                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__divmodsi4                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__divsf3                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__divsf3_pse                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-__divsf3x                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __do_clear_bss                                    c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __do_copy_data                                    c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __eqsf2                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
 __fixsfsi                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __fixunssfsi                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __floatsisf                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __floatunsisf                                     c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__fp_arccos                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
 __fp_cmp                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
 __fp_inf                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_mintl                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
 __fp_mpack                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
 __fp_mpack_finite                                 c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
 __fp_nan                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-__fp_norm2                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-__fp_powser                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-__fp_powsodd                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
 __fp_pscA                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
 __fp_pscB                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-__fp_rempio2                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
 __fp_round                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-__fp_sinus                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
 __fp_split3                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
 __fp_splitA                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
 __fp_szero                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_trunc                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
 __fp_zero                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
 __heap_end                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __init                                            c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __lesf2                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
 __ltsf2                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __mulsf3                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __mulsf3_pse                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
 __mulsf3x                                         c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-__muluhisi3                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__negsi2                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
 __nesf2                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
 __stack                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __subsf3                                          c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 __udivmodhi4                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__udivmodsi4                                      c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-__umulhisi3                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
 __vector_1                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_10                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_11                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -1250,7 +880,7 @@ __vector_20                                       c:/tools/avr-gcc-7.3.0-atmel3.
 __vector_21                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_22                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_23                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-__vector_24                                       C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+__vector_24                                       C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
                                                   CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_25                                       c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -1258,7 +888,7 @@ __vector_3                                        c:/tools/avr-gcc-7.3.0-atmel3.
 __vector_4                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_5                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_6                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-__vector_7                                        C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+__vector_7                                        C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
                                                   CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_8                                        c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
@@ -1271,19 +901,11 @@ aRes                                              CMakeFiles/atmega328p_fw.elf.d
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 accelBias                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 accelCount                                        CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
-asin                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(asin.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-atan                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-atan2                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan2.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
 ax                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 ay                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 az                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 beta                                              CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 calibrateMPU9250                                  CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-cos                                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cos.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
 count                                             CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 cubePosX                                          CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 cubePosY                                          CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
@@ -1291,21 +913,17 @@ currentThetaX                                     CMakeFiles/atmega328p_fw.elf.d
 currentThetaY                                     CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 delt_t                                            CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 deltat                                            CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 eInt                                              CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 err_flag                                          CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 exit                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
-exp                                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
+floor                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floor.o)
+                                                  C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
 gRes                                              CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 getAres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 getGres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 getMres                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 gx                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 gy                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 gyroBias                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
@@ -1313,76 +931,45 @@ gyroCount                                         CMakeFiles/atmega328p_fw.elf.d
 gz                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 initAK8963                                        CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 initMPU9250                                       CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-inverse                                           c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(inverse.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
 job                                               CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 lastUpdate                                        CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
-ldexp                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-log                                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(log.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
 mRes                                              CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 magBias                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 magCalibration                                    CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 magCount                                          CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 magScale                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 magbias                                           CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 magcalMPU9250                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-main                                              C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
+main                                              C:\Users\zwing\AppData\Local\Temp\ccIpt1t1.ltrans0.ltrans.o
                                                   CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
                                                   c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega328p.o
 micros_get                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 millis_add                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
 millis_get                                        CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 millis_init                                       CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 millis_pause                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
 millis_reset                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
 millis_resume                                     CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
 millis_subtract                                   CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
 milliseconds                                      CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj (symbol from plugin)
-modf                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(exp.o)
-modff                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(modf.o)
 mpu9250_setup                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 mx                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 my                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 mz                                                CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 oled_flag                                         CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 pitch                                             CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
-pow                                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(pow.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
 q                                                 CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 readAccelData                                     CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 readByte                                          CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 readByte_Debug                                    CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 readBytes                                         CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 readBytes_Debug                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 readGyroData                                      CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 readMagData                                       CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 readTempData                                      CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 roll                                              CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
-sin                                               c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sin.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-sqrt                                              c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
-                                                  C:\Users\zwing\AppData\Local\Temp\ccIIqtWV.ltrans0.ltrans.o
-sqrtf                                             c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
-square                                            c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(square.o)
-                                                  c:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(atan.o)
 sum                                               CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 sumCount                                          CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 tempCount                                         CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
@@ -1393,7 +980,6 @@ twi_attachSlaveTxEvent                            CMakeFiles/atmega328p_fw.elf.d
 twi_disInt                                        CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
 twi_enInt                                         CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
 twi_init                                          CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj (symbol from plugin)
 twi_readFrom                                      CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj (symbol from plugin)
 twi_releaseBus                                    CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj (symbol from plugin)

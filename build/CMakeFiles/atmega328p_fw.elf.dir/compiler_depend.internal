@@ -6,6 +6,8 @@ CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj
  C:/Users/zwing/atmega328p/Framebuffer.h
  C:/Users/zwing/atmega328p/I2C.h
  C:/Users/zwing/atmega328p/SSD1306.h
+ C:/Users/zwing/atmega328p/stdutils.h
+ C:/Users/zwing/atmega328p/uart.h
 
 CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj
  C:/Users/zwing/atmega328p/I2C.cpp

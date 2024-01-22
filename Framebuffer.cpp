@@ -26,8 +26,6 @@ For more information, please refer to <http://unlicense.org/>
 */
 
 #include "Framebuffer.h"
-#include <Math.h>
-
 
 Framebuffer::Framebuffer() {
     this->clear();
@@ -49,6 +47,7 @@ void Framebuffer::drawBitmap(const uint8_t *progmem_bitmap, uint8_t height, uint
         }
     }
 }
+
 
 void Framebuffer::drawBuffer(const uint8_t *progmem_buffer) {
     uint8_t current_byte;
@@ -254,4 +253,75 @@ void Framebuffer::invert(uint8_t status) {
 
 void Framebuffer::show() {
     this->oled.sendFramebuffer(this->buffer);
+}
+
+void Framebuffer::displayChar(char character, int x, int y) {
+  if (x >= 0 && x < 128 && y >= 0 && y < 64) {
+    // Calculate the index in the font array
+    int fontIndex = (character - 32) * 16 + 4;
+
+    // Draw the character on the OLED screen
+    for (int i = 0; i < 8; i++) {
+      for (int j = 0; j < 8; j++) {
+        if (pgm_read_byte(&ssd1306xled_font8x16[fontIndex + i]) & (1 << (j))) {
+          this->drawPixel(x + i, y + j);
+        }
+      }
+    }
+    for (int i = 8; i < 16; i++) {
+      for (int j = 0; j < 8; j++) {
+        if (pgm_read_byte(&ssd1306xled_font8x16[fontIndex + i]) & (1 << (j))) {
+          this->drawPixel(x + i-8, y + j+8);
+        }
+      }
+    }
+  }
+}
+
+void Framebuffer::printStringOnOLED(uint8_t pos_x, uint8_t pos_y, const char *str)
+{
+    
+    UART_Printf("test\n");
+    // 문자열의 각 문자에 대해 폰트를 이용하여 출력
+    // while (*str)
+    // {
+    //     char c = *str;
+    //     if (c >= 65 && c <= 126)
+    //     {
+    //         // ASCII 코드가 폰트 배열에 있는 경우에만 출력
+    //         int index = c - 65; // ASCII 65부터 시작하므로 65를 빼서 인덱스 계산
+    //         for (int i = 0; i < 8; i++)
+    //         {
+    //             for (int j = 0; j < 2; j++)
+    //             {
+    //                 if (pgm_read_byte(&(FONT8X15[index][i][j])) == 1)
+    //                 {
+    //                     // OLED에 픽셀 그리기
+    //                     this->drawPixel(pos_x + i, pos_y + j);
+    //                     UART_Printf("%d,%d",pos_x + i, pos_y + j);
+    //                 }
+    //             }
+    //         }
+    //         // 다음 문자의 출력 위치로 이동
+    //         pos_x += 8;
+    //     }
+    //     str++;
+    // }
+for (int i = 0; i < 8; i++)
+    {
+        for (int j = 0; j < 2; j++)
+        {
+            uint8_t byteValue = pgm_read_byte(&(FONT8X2[3][i][j]));  
+
+            for (int k = 0; k < 8; k++)
+            {
+                // Check if the k-th bit is set in the byte
+                if (byteValue & (1 << k))
+                {
+                    // OLED에 픽셀 그리기
+                    this->drawPixel(pos_x + i, pos_y + j * 8 + k);
+                }
+            }
+        }
+    }
 }
