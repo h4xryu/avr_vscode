@@ -6,7 +6,10 @@
       {
         "label": "avrdude",
         "type": "shell",
-        "command": "tools/avrdude/bin/avrdude.exe -C tools/avrdude/etc/avrdude.conf -v -patmega328p -carduino -PCOM5 -b115200 -D -Uflash:w:build/atmega328p_fw.hex:i"
+        "command": "tools/avrdude/bin/avrdude.exe -C tools/avrdude/etc/avrdude.conf -v -patmega328p -carduino -PCOM7 -b115200 -D -Uflash:w:build/atmega328p_fw.hex:i"
+        //"command": "tools/avrdude/bin/avrdude.exe -C ./tools/avrdude/etc/avrdude.conf -v -p attiny2313  -c usbtiny -F -Uflash:w:build/atmega328p_fw.hex:i"
+        
+
       }
     ]
   }

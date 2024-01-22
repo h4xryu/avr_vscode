@@ -63,8 +63,7 @@ void UART_Init(uint32_t v_baudRate_u32)
 	 *	UCSRnB ect. die Nummer für den USART eintragen
 	 *	Es gibt den Usart0 und den Usart1
 	 */
-	UCSR0B = (1<<RXEN0) | (1<<TXEN0);
-	//UCSR0B = (1<<RXEN0) | (1<<TXEN0)  | (1 << RXCIE0);                  // Enable Receiver and Transmitter
+	UCSR0B = (1<<RXEN0) | (1<<TXEN0);                  // Enable Receiver and Transmitter
 	UCSR0C = 0x00;
 	UCSR0C = (1<<UCSZ01) | (1<<UCSZ00);   // Asynchronous mode 8-bit data and 1-stop bit	Da UMSEL anfangs schon 00 -> Asynchron
 	UCSR0A = 0x00;                                   // Clear the UASRT status register

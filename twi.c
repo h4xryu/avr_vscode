@@ -26,7 +26,6 @@
 #include <avr/interrupt.h>
 #include <compat/twi.h>
 //#include "Arduino.h" // for digitalWrite
-#define _BV(bit) (1 << (bit))
 
 #ifndef cbi
 #define cbi(sfr, bit) (_SFR_BYTE(sfr) &= ~_BV(bit))
@@ -35,8 +34,6 @@
 #ifndef sbi
 #define sbi(sfr, bit) (_SFR_BYTE(sfr) |= _BV(bit))
 #endif
-
-
 
 //#include "pins_arduino.h"
 #include "twi.h"
@@ -93,18 +90,15 @@ void twi_init(void)
   It is 72 for a 16mhz Wiring board with 100kHz TWI */
 
   // enable twi module, acks, and twi interrupt
-  TWCR = _BV(TWEN) | _BV(TWEA);
-  UART_Printf("I2C init done!\n\r");
+  TWCR = _BV(TWEN) | _BV(TWEA) | _BV(TWIE);
+  
 }
 
-void twi_setInterrupt(){
-  TWCR |=  _BV(TWIE);
-  //sbi(TWCR, TWIE);
+void twi_enInt(){
+  TWCR |=  (1 <<TWIE);
 }
-
-void twi_disableInterrupt(){
-  //cbi(TWCR, TWIE);
-  TWCR &=  ~_BV(TWIE);
+void twi_disInt(){
+  TWCR &=  (1 << TWIE);
 }
 
 /* 
@@ -253,13 +247,13 @@ uint8_t twi_writeTo(uint8_t address, uint8_t* data, uint8_t length, uint8_t wait
   	if(TWI_BUFFER_LENGTH < length)
 	{
 #ifdef TWI_DEBUG
-  		UART_Printf("Buffer_Length (0x%x) < length (0x%x)\n\r" , TWI_BUFFER_LENGTH , length); 
+  		UART_Printf("Buffer_Length (0x%x) < length (0x%x) -> Wont fit...\n\r" , TWI_BUFFER_LENGTH , length);
 #endif
     		return 1;
   	}
 
 #ifdef TWI_DEBUG
-  	UART_Printf("Wait until twi is ready, become master transmitter"); 
+  	UART_Printf("Wait until twi is ready, become master transmitter");
 #endif
   	// wait until twi is ready, become master transmitter
   	while(TWI_READY != twi_state)
@@ -352,7 +346,6 @@ uint8_t twi_writeTo(uint8_t address, uint8_t* data, uint8_t length, uint8_t wait
 	{
     		return 4;	// other twi error
 	}
-  UART_Printf("DONE!\n\r");
 }
 
 /* 
@@ -464,7 +457,6 @@ void twi_releaseBus(void)
 
 ISR(TWI_vect)
 {
-
   switch(TW_STATUS){
     // All Master
     case TW_START:     // sent start condition

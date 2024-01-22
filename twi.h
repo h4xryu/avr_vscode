@@ -17,15 +17,6 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-
-
-// #ifndef cbi
-// #define cbi(sfr, bit) (_SFR_BYTE(sfr) &= ~_BV(bit))
-// #endif
-
-// #ifndef sbi
-// #define sbi(sfr, bit) (_SFR_BYTE(sfr) |= _BV(bit))
-// #endif
 #ifndef twi_h
 #define twi_h
 
@@ -59,9 +50,9 @@
   void twi_attachSlaveTxEvent( void (*)(void) );
   void twi_reply(uint8_t);
   void twi_stop(void);
+  void twi_enInt();
+  void twi_disInt();
   void twi_releaseBus(void);
-  void twi_setInterrupt(void);
-  void twi_disableInterrupt(void);
 
 #endif
 

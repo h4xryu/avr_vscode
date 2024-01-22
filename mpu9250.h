@@ -32,7 +32,7 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include <avr/interrupt.h>
+
 #include <stdint.h>
 #include <stdbool.h>
 #include <math.h>
@@ -76,10 +76,7 @@
 #define Kp 10.0f // these are the free parameters in the Mahony filter and fusion scheme, Kp for proportional feedback, Ki for integral
 #define Ki 0.0f
 
-
-
 // Specify sensor full scale
-extern uint8_t err_flag;
 extern uint8_t Gscale;	// = GFS_250DPS;
 extern uint8_t Ascale;	// = AFS_2G;
 extern uint8_t Mscale;  // = MFS_16BITS; // Choose either 14-bit or 16-bit magnetometer resolution
@@ -103,7 +100,7 @@ extern float sum; 	//= 0;        // integration interval for both filter schemes
 extern float beta;		//= 0.8660254 * GyroMeasError; //sqrt(3.0f / 4.0f) * GyroMeasError;   // compute beta
 extern float zeta;		// = 0.8660254 * GyroMeasDrift; //sqrt(3.0f / 4.0f) * GyroMeasDrift;   // compute zeta, the other free parameter in the Madgwick scheme usually set to a small or zero value
 
-int mpu9250_setup(void);
+void mpu9250_setup(void);
 
 /*---------------------------------- Lokale Funktionen -----------------------------------------*/
 void writeByte(uint8_t address, uint8_t subAddress, uint8_t data);

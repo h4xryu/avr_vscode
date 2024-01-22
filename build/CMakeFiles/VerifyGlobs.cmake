@@ -5,7 +5,6 @@ cmake_policy(SET CMP0009 NEW)
 # SRC_FILES at CMakeLists.txt:11 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/Users/zwing/atmega328p/*.c")
 set(OLD_GLOB
-  "C:/Users/zwing/atmega328p/main.c"
   "C:/Users/zwing/atmega328p/millis.c"
   "C:/Users/zwing/atmega328p/mpu9250.c"
   "C:/Users/zwing/atmega328p/twi.c"
@@ -19,6 +18,10 @@ endif()
 # SRC_FILES at CMakeLists.txt:11 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/Users/zwing/atmega328p/*.cpp")
 set(OLD_GLOB
+  "C:/Users/zwing/atmega328p/Framebuffer.cpp"
+  "C:/Users/zwing/atmega328p/I2C.cpp"
+  "C:/Users/zwing/atmega328p/SSD1306.cpp"
+  "C:/Users/zwing/atmega328p/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

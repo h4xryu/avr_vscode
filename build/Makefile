@@ -130,29 +130,101 @@ atmega328p_fw.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/build
 .PHONY : atmega328p_fw.elf/fast
 
-main.obj: main.c.obj
+Framebuffer.obj: Framebuffer.cpp.obj
+.PHONY : Framebuffer.obj
+
+# target to build an object file
+Framebuffer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj
+.PHONY : Framebuffer.cpp.obj
+
+Framebuffer.i: Framebuffer.cpp.i
+.PHONY : Framebuffer.i
+
+# target to preprocess a source file
+Framebuffer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.i
+.PHONY : Framebuffer.cpp.i
+
+Framebuffer.s: Framebuffer.cpp.s
+.PHONY : Framebuffer.s
+
+# target to generate assembly for a file
+Framebuffer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.s
+.PHONY : Framebuffer.cpp.s
+
+I2C.obj: I2C.cpp.obj
+.PHONY : I2C.obj
+
+# target to build an object file
+I2C.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj
+.PHONY : I2C.cpp.obj
+
+I2C.i: I2C.cpp.i
+.PHONY : I2C.i
+
+# target to preprocess a source file
+I2C.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.i
+.PHONY : I2C.cpp.i
+
+I2C.s: I2C.cpp.s
+.PHONY : I2C.s
+
+# target to generate assembly for a file
+I2C.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.s
+.PHONY : I2C.cpp.s
+
+SSD1306.obj: SSD1306.cpp.obj
+.PHONY : SSD1306.obj
+
+# target to build an object file
+SSD1306.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj
+.PHONY : SSD1306.cpp.obj
+
+SSD1306.i: SSD1306.cpp.i
+.PHONY : SSD1306.i
+
+# target to preprocess a source file
+SSD1306.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.i
+.PHONY : SSD1306.cpp.i
+
+SSD1306.s: SSD1306.cpp.s
+.PHONY : SSD1306.s
+
+# target to generate assembly for a file
+SSD1306.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.s
+.PHONY : SSD1306.cpp.s
+
+main.obj: main.cpp.obj
 .PHONY : main.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.c.obj
-.PHONY : main.c.obj
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-main.i: main.c.i
+main.i: main.cpp.i
 .PHONY : main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.c.i
-.PHONY : main.c.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-main.s: main.c.s
+main.s: main.cpp.s
 .PHONY : main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.c.s
-.PHONY : main.c.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega328p_fw.elf.dir/build.make CMakeFiles/atmega328p_fw.elf.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 millis.obj: millis.c.obj
 .PHONY : millis.obj
@@ -259,6 +331,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... atmega328p_fw.elf"
+	@echo "... Framebuffer.obj"
+	@echo "... Framebuffer.i"
+	@echo "... Framebuffer.s"
+	@echo "... I2C.obj"
+	@echo "... I2C.i"
+	@echo "... I2C.s"
+	@echo "... SSD1306.obj"
+	@echo "... SSD1306.i"
+	@echo "... SSD1306.s"
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"

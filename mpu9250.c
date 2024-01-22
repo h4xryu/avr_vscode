@@ -1,3 +1,4 @@
+
 #include "mpu9250.h"
 
 //#define byteWrite_DEBUG 1
@@ -42,9 +43,8 @@ float magCalibration[3] = {0, 0, 0}, magbias[3] = {0, 0, 0};  // Factory mag cal
 float magBias[3] = {0 ,0 ,0}, magScale[3] = {0, 0, 0};
 
 
-int mpu9250_setup()
+void mpu9250_setup()
 {
-	
 	//  TWBR = 12;  // 400 kbit/sec I2C speed
   	// Set up the interrupt pin, its set as active high, push-pull
 	//int intPin = 12; -> PIN12 = Pin B4
@@ -57,24 +57,19 @@ int mpu9250_setup()
 	DDRB |= (1 << 5);
 	//digitalWrite(myLed, HIGH);
   	PORTB |= (1 << 5);
-	
-  	// UART_Printf("MPU9250\n\r");
-  	// UART_Printf("9-DOF 16-bit\n\r");
-  	// UART_Printf("motion sensor\n\r");
-  	// UART_Printf("60 ug LSB\n\r");
-
+  
+  	UART_Printf("MPU9250\n\r");
+  	UART_Printf("9-DOF 16-bit\n\r");
+  	UART_Printf("motion sensor\n\r");
+  	UART_Printf("60 ug LSB\n\r");
   	_delay_ms(800);
-	//Timer1_delay_10ms(800);
+
   	// Read the WHO_AM_I register, this is a good test of communication
   	//readBytes(MPU9250_ADDRESS, ACCEL_XOUT_H, 6, &rawData[0]);  // Read the six raw data registers into data array
   	uint8_t whoami = 0;
+
   	whoami = readByte(MPU9250_ADDRESS, WHO_AM_I_MPU9250);  // Read WHO_AM_I register for MPU-9250
-	
-  	UART_Printf("Address : 0x%x (MPU9250 = 0x71) \n\r" , whoami);
-    if((whoami & 0xff) == 0){
-		UART_Printf("Incorrect address.\n\r" , whoami);
-      return 1;
-    }
+  	UART_Printf("MPU9250\n\r I AM %x I should be 0x71\n\r" , whoami);
 ////  display.setCursor(20,0);
 //  UART_Printf("MPU9250");
 ////  display.setCursor(0,10);
@@ -86,34 +81,34 @@ int mpu9250_setup()
 ////  display.setCursor(0,40);
 //  UART_Printf(0x71, HEX); 
 //  display.display();
-	 _delay_ms(80);
-	//Timer1_delay_10ms(800);	
+  _delay_ms(800); 
+
   if (whoami == 0x71) // WHO_AM_I should always be 0x68
   {  
-    //UART_Printf("MPU9250 is online...\n\r");
+    UART_Printf("MPU9250 is online...\n\r");
     
     MPU9250SelfTest(SelfTest); // Start by performing self test and reporting values
-    //UART_Printf("x-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[0]);
-    // UART_Printf("y-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[1]);
-    // UART_Printf("z-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[2]);
-    // UART_Printf("x-axis self test: gyration trim within : %d\% of factory value\n\r" 	, SelfTest[3]); 
-    // UART_Printf("y-axis self test: gyration trim within : %d\% of factory value\n\r"	, SelfTest[4]);
-    // UART_Printf("z-axis self test: gyration trim within : %d\% of factory value\n\r"	, SelfTest[5]);
+    UART_Printf("x-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[0]);
+    UART_Printf("y-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[1]);
+    UART_Printf("z-axis self test: acceleration trim within : %d\% of factory value\n\r" 	, SelfTest[2]);
+    UART_Printf("x-axis self test: gyration trim within : %d\% of factory value\n\r" 	, SelfTest[3]); 
+    UART_Printf("y-axis self test: gyration trim within : %d\% of factory value\n\r"	, SelfTest[4]);
+    UART_Printf("z-axis self test: gyration trim within : %d\% of factory value\n\r"	, SelfTest[5]);
  
     calibrateMPU9250(gyroBias, accelBias); // Calibrate gyro and accelerometers, load biases in bias registers
 
-    // UART_Printf("MPU9250 bias\n\r");
+    UART_Printf("MPU9250 bias\n\r");
 
-    // UART_Printf(" x   y   z\n\r");
+    UART_Printf(" x   y   z\n\r");
 
 
-    // UART_Printf("%d %d %d mg\n\r" , (int)(1000*accelBias[0]) , (int)(1000*accelBias[1]) , (int)(1000*accelBias[2])); 
+    UART_Printf("%d %d %d mg\n\r" , (int)(1000*accelBias[0]) , (int)(1000*accelBias[1]) , (int)(1000*accelBias[2])); 
 
-    // UART_Printf("%d %d %d °/s\n\r" , gyroBias[0] , gyroBias[1] , gyroBias[2]); 
-    _delay_ms(100); 
+    UART_Printf("%d %d %d °/s\n\r" , gyroBias[0] , gyroBias[1] , gyroBias[2]); 
+    _delay_ms(1000); 
   
     initMPU9250(); 
-    //UART_Printf("MPU9250 initialized for active data mode....\n\r"); // Initialize device for active mode read of acclerometer, gyroscope, and temperature
+    UART_Printf("MPU9250 initialized for active data mode....\n\r"); // Initialize device for active mode read of acclerometer, gyroscope, and temperature
 
 
     uint8_t BypassTrue = 0;
@@ -127,27 +122,26 @@ int mpu9250_setup()
     	uint8_t IntEna = readByte(MPU9250_ADDRESS, INT_ENABLE); //0x01); // Disable I2C master
 	whoami = 0;
   	whoami = readByte(MPU9250_ADDRESS, WHO_AM_I_MPU9250);  // Read WHO_AM_I register for MPU-9250
-    	//UART_Printf("PinCFG: %x = 0x22 MasterDisable %x = 0x00 Interrupts %x = 0x01 Whoami %x = 0x71\n\r" , PinCFG, MasterDis, IntEna, whoami);
+    	UART_Printf("PinCFG: %x = 0x22 MasterDisable %x = 0x00 Interrupts %x = 0x01 Whoami %x = 0x71\n\r" , PinCFG, MasterDis, IntEna, whoami);
 	if(PinCFG == 0x22 && MasterDis == 0x00 && IntEna == 0x01)
 	{
 		BypassTrue = 1;
 	}
-	_delay_ms(80);
-	//_delay_ms(800); 
+	_delay_ms(800); 
     }
 
 	// Read the WHO_AM_I register of the magnetometer, this is a good test of communication
     	whoami = readByte_Debug(AK8963_ADDRESS, WHO_AM_I_AK8963);  // Read WHO_AM_I register for AK8963
-   	UART_Printf("AK8963\n\r Address 0x%x It should be 0x48\n\r" , whoami);
+   	UART_Printf("AK8963\n\rI AM %x I should be 0x48\n\r" , whoami);
 
     if(whoami == 0x48)
     {
 
-    	//_delay_ms(1000); 
-		_delay_ms(100);
+    	_delay_ms(1000); 
+  
     	// Get magnetometer calibration from AK8963 ROM
     	initAK8963(magCalibration); 
-	//UART_Printf("AK8963 initialized for active data mode....\n\r"); // Initialize device for active mode read of magnetometer
+	UART_Printf("AK8963 initialized for active data mode....\n\r"); // Initialize device for active mode read of magnetometer
     	getMres();
     	magcalMPU9250(magBias,magScale); 
 
@@ -161,26 +155,22 @@ int mpu9250_setup()
     	UART_Printf("ASAX %d\n" , magCalibration[0]);
     	UART_Printf("ASAY %d\n" , magCalibration[1]);
     	UART_Printf("ASAZ %d\n" , magCalibration[2]);
-		_delay_ms(80);
-    	//_delay_ms(1000);  
+    	_delay_ms(1000);  
     }
     else
     {
     	UART_Printf("Could not connect to AK8963: 0x%x\n\r" , whoami);
-		return 1;
     }
 
     whoami = readByte(MPU9250_ADDRESS, WHO_AM_I_MPU9250);  // Read WHO_AM_I register for MPU-9250
-    UART_Printf("MPU9250\n\r Address 0x%x It should be 0x71\n\r" , whoami);
+    UART_Printf("MPU9250\n\r I AM %x I should be 0x71\n\r" , whoami);
 
   }
   else
   {
     UART_Printf("Could not connect to MPU9250: 0x%x\n\r" , whoami);
-	return 1;
   }
   UART_Printf("Init done!\n\r");
-  return 0;
 }
 
 //===================================================================================================================
@@ -764,11 +754,8 @@ void writeByte(uint8_t address, uint8_t subAddress, uint8_t data)
 
 uint8_t readByte(uint8_t address, uint8_t subAddress)
 {
-#ifdef byteWrite_DEBUG 
-  	UART_Printf("Begin of readByte()\n\r");
-#endif
-	uint8_t ui8_data; // `data` will store the register data
 
+	uint8_t ui8_data; // `data` will store the register data
 	readBytes(address, subAddress, 1, &ui8_data);
 
 	return ui8_data;                             // Return data read from slave register
@@ -776,21 +763,14 @@ uint8_t readByte(uint8_t address, uint8_t subAddress)
 
 void readBytes(uint8_t address, uint8_t subAddress, uint8_t byteCount, uint8_t * destinationBuffer)
 {
-#ifdef byteWrite_DEBUG 
-	UART_Printf("Begin of readBytes()\n\r");
-#endif
+
  	uint8_t ui8_return = 0;
 
 	//Wire.beginTransmission(address);         // Initialize the Tx buffer
-#ifdef byteWrite_DEBUG 
-  	UART_Printf("Address is %x\n\r" , address);
-#endif
+
 	//i2c_start_wait(address+I2C_WRITE);
 	//Wire.write(subAddress);	                 // Put slave register address in Tx buffer
 	//ui8_return = i2c_write(subAddress);
-#ifdef byteWrite_DEBUG 
-  	UART_Printf("SubAddress to send is %x\n\r" , subAddress);
-#endif
 
 	//Wire.endTransmission(false);             // Send the Tx buffer, but send a restart to keep connection alive
 	//ui8_return = i2c_rep_start(address + I2C_READ);
@@ -799,35 +779,15 @@ void readBytes(uint8_t address, uint8_t subAddress, uint8_t byteCount, uint8_t *
 									 //don't send a stop-condition	
 	if(ui8_return == 0)
 	{
-#ifdef byteWrite_DEBUG 
-  		UART_Printf("Send subAddress %x to address %x\n\r" , subAddress , address);
-#endif
+
 	}
-#ifdef byteWrite_Errors
-	else if(ui8_return == 2)
-	{	
-  		UART_Printf("Address was send received a NACK!\n\r");
-	}
-	else if(ui8_return == 3)
-	{
-  		UART_Printf("subAddress was send received a NACK!\n\r");
-	}
-	else
-	{
-		UART_Printf("ERROR! Status-Code: %x!\n\r" , ui8_return);
-	}
-#endif
+
         //Wire.requestFrom(address, count);  // Read bytes from slave register address 
 	ui8_return = twi_readFrom(address, destinationBuffer, byteCount, (uint8_t)true); //Read byteCount-Bytes from 
 											 //address an put it into the
 											 //destinationBuffer then send a
 											 //stop-condition
-#ifdef byteWrite_Errors
-	if(ui8_return != byteCount)
-	{
-		UART_Printf("Whoopsie read 0x%x Bytes instead of 0x%x Byte...\n\r" , ui8_return , byteCount);
-	}
-#endif
+
 	//while (Wire.available()) {
         //dest[i++] = Wire.read(); }         // Put read results in the Rx buffer <-- We don't need this because we let
 	//					TWI Write directly into the memory region because we dont use a 
@@ -835,9 +795,7 @@ void readBytes(uint8_t address, uint8_t subAddress, uint8_t byteCount, uint8_t *
 
 	//i2c_stop();	//Free the bus for other operations <- This happens automatically at the end of twi_readFrom
 	//		  				       because of the "true" as last parameter
-#ifdef byteWrite_DEBUG 
-  	UART_Printf("End of readBytes()\n\r");
-#endif
+
 }
 
 /*---------------------------------- Debug --------------------------------------------------------------------------------*/
@@ -951,3 +909,4 @@ void magcalMPU9250(float * dest1, float * dest2)
  UART_Printf("Mag Calibration done!");
  }
 /*----------------------------------------------------------------------------------------------*/
+

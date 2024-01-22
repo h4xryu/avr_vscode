@@ -63,6 +63,100 @@
 			"compileCommandFragments" : 
 			[
 				{
+					"fragment" : "-g -std=gnu++11"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega328p"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-MMD"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Os"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-g3"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "F_CPU=16000000L"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src/ap"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src/bsp"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src/hw"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src/common"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/zwing/atmega328p/src/common/hw/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
 					"fragment" : "-g -std=gnu11"
 				},
 				{
@@ -147,11 +241,10 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1,
-				2,
-				3,
-				4
+				4,
+				5,
+				6,
+				7
 			]
 		}
 	],
@@ -209,7 +302,7 @@
 				"role" : "flags"
 			}
 		],
-		"language" : "C"
+		"language" : "CXX"
 	},
 	"name" : "atmega328p_fw.elf",
 	"nameOnDisk" : "atmega328p_fw.elf",
@@ -228,7 +321,10 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5,
+				6,
+				7
 			]
 		}
 	],
@@ -237,30 +333,48 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "Framebuffer.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "I2C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "SSD1306.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
 			"path" : "millis.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"compileGroupIndex" : 0,
+			"compileGroupIndex" : 1,
 			"path" : "mpu9250.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"compileGroupIndex" : 0,
+			"compileGroupIndex" : 1,
 			"path" : "twi.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"compileGroupIndex" : 0,
+			"compileGroupIndex" : 1,
 			"path" : "uart.c",
 			"sourceGroupIndex" : 0
 		}

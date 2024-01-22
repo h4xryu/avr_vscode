@@ -106,7 +106,7 @@
 #define REG_OCR			OCR2A
 #define BIT_WGM			WGM21
 #define BIT_OCIE		OCIE2A
-#define ISR_VECT		TIMER0_COMPA_vect
+#define ISR_VECT		TIMER2_COMPA_vect
 #define pwr_enable()	power_timer2_enable()
 #define pwr_disable()	power_timer2_disable()
 

@@ -25,9 +25,9 @@ extern millis_t milliseconds;		// = 0;
 #define MILLIS_TIMER0 0 /**< Use timer0. */
 #define MILLIS_TIMER1 1 /**< Use timer1. */
 #define MILLIS_TIMER2 2 /**< Use timer2. */
-#define _BV(bit) (1 << (bit))
+
 #ifndef MILLIS_TIMER
-  #define MILLIS_TIMER MILLIS_TIMER0 /**< Which timer to use. */
+  #define MILLIS_TIMER MILLIS_TIMER2 /**< Which timer to use. */
 #endif
 
 #ifndef ARDUINO

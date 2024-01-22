@@ -69,24 +69,66 @@ include CMakeFiles/atmega328p_fw.elf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/atmega328p_fw.elf.dir/flags.make
 
-CMakeFiles/atmega328p_fw.elf.dir/main.c.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
-CMakeFiles/atmega328p_fw.elf.dir/main.c.obj: C:/Users/zwing/atmega328p/main.c
-CMakeFiles/atmega328p_fw.elf.dir/main.c.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/atmega328p_fw.elf.dir/main.c.obj"
-	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/main.c.obj -MF CMakeFiles/atmega328p_fw.elf.dir/main.c.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/main.c.obj -c C:/Users/zwing/atmega328p/main.c
+CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
+CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj: C:/Users/zwing/atmega328p/Framebuffer.cpp
+CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj -MF CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj -c C:/Users/zwing/atmega328p/Framebuffer.cpp
 
-CMakeFiles/atmega328p_fw.elf.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/atmega328p_fw.elf.dir/main.c.i"
-	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:/Users/zwing/atmega328p/main.c > CMakeFiles/atmega328p_fw.elf.dir/main.c.i
+CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.i"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/zwing/atmega328p/Framebuffer.cpp > CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.i
 
-CMakeFiles/atmega328p_fw.elf.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega328p_fw.elf.dir/main.c.s"
-	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/zwing/atmega328p/main.c -o CMakeFiles/atmega328p_fw.elf.dir/main.c.s
+CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.s"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/zwing/atmega328p/Framebuffer.cpp -o CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.s
+
+CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
+CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj: C:/Users/zwing/atmega328p/I2C.cpp
+CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj -MF CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj -c C:/Users/zwing/atmega328p/I2C.cpp
+
+CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.i"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/zwing/atmega328p/I2C.cpp > CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.i
+
+CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.s"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/zwing/atmega328p/I2C.cpp -o CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.s
+
+CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
+CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj: C:/Users/zwing/atmega328p/SSD1306.cpp
+CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj -MF CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj -c C:/Users/zwing/atmega328p/SSD1306.cpp
+
+CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.i"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/zwing/atmega328p/SSD1306.cpp > CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.i
+
+CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.s"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/zwing/atmega328p/SSD1306.cpp -o CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.s
+
+CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
+CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj: C:/Users/zwing/atmega328p/main.cpp
+CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj -MF CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj -c C:/Users/zwing/atmega328p/main.cpp
+
+CMakeFiles/atmega328p_fw.elf.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/atmega328p_fw.elf.dir/main.cpp.i"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/zwing/atmega328p/main.cpp > CMakeFiles/atmega328p_fw.elf.dir/main.cpp.i
+
+CMakeFiles/atmega328p_fw.elf.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/atmega328p_fw.elf.dir/main.cpp.s"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/zwing/atmega328p/main.cpp -o CMakeFiles/atmega328p_fw.elf.dir/main.cpp.s
 
 CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
 CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj: C:/Users/zwing/atmega328p/millis.c
 CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj"
 	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj -MF CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj -c C:/Users/zwing/atmega328p/millis.c
 
 CMakeFiles/atmega328p_fw.elf.dir/millis.c.i: cmake_force
@@ -100,7 +142,7 @@ CMakeFiles/atmega328p_fw.elf.dir/millis.c.s: cmake_force
 CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
 CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj: C:/Users/zwing/atmega328p/mpu9250.c
 CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj"
 	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj -MF CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj -c C:/Users/zwing/atmega328p/mpu9250.c
 
 CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.i: cmake_force
@@ -114,7 +156,7 @@ CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.s: cmake_force
 CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
 CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj: C:/Users/zwing/atmega328p/twi.c
 CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj"
 	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj -MF CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj -c C:/Users/zwing/atmega328p/twi.c
 
 CMakeFiles/atmega328p_fw.elf.dir/twi.c.i: cmake_force
@@ -128,7 +170,7 @@ CMakeFiles/atmega328p_fw.elf.dir/twi.c.s: cmake_force
 CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj: CMakeFiles/atmega328p_fw.elf.dir/flags.make
 CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj: C:/Users/zwing/atmega328p/uart.c
 CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj: CMakeFiles/atmega328p_fw.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj"
 	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj -MF CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj.d -o CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj -c C:/Users/zwing/atmega328p/uart.c
 
 CMakeFiles/atmega328p_fw.elf.dir/uart.c.i: cmake_force
@@ -141,7 +183,10 @@ CMakeFiles/atmega328p_fw.elf.dir/uart.c.s: cmake_force
 
 # Object files for target atmega328p_fw.elf
 atmega328p_fw_elf_OBJECTS = \
-"CMakeFiles/atmega328p_fw.elf.dir/main.c.obj" \
+"CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj" \
+"CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj" \
+"CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj" \
+"CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj" \
 "CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj" \
 "CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj" \
 "CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj" \
@@ -150,14 +195,17 @@ atmega328p_fw_elf_OBJECTS = \
 # External object files for target atmega328p_fw.elf
 atmega328p_fw_elf_EXTERNAL_OBJECTS =
 
-atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/main.c.obj
+atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/Framebuffer.cpp.obj
+atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/I2C.cpp.obj
+atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/SSD1306.cpp.obj
+atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/main.cpp.obj
 atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/millis.c.obj
 atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/mpu9250.c.obj
 atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/twi.c.obj
 atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/uart.c.obj
 atmega328p_fw.elf: CMakeFiles/atmega328p_fw.elf.dir/build.make
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable atmega328p_fw.elf"
-	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-gcc.exe -g -mmcu=atmega328p -flto -fuse-linker-plugin -lm -Wl,-Map=atmega328p_fw.map,--cref -Wl,--gc-sections -Xlinker -print-memory-usage $(atmega328p_fw_elf_OBJECTS) $(atmega328p_fw_elf_EXTERNAL_OBJECTS) -o atmega328p_fw.elf 
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:/Users/zwing/atmega328p/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable atmega328p_fw.elf"
+	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr/bin/avr-g++.exe -g -mmcu=atmega328p -flto -fuse-linker-plugin -lm -Wl,-Map=atmega328p_fw.map,--cref -Wl,--gc-sections -Xlinker -print-memory-usage $(atmega328p_fw_elf_OBJECTS) $(atmega328p_fw_elf_EXTERNAL_OBJECTS) -o atmega328p_fw.elf 
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Invoking: Make Hex"
 	C:/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32/avr//bin/avr-objcopy -O ihex -R .eeprom atmega328p_fw.elf atmega328p_fw.hex
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Invoking: Make EEPROM"
